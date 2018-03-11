@@ -1,0 +1,13 @@
+GitHub---> (Repositorio)
+@softwVJJ
+correo: proyectodelcafe@gmail.com
+clave: proyectodelcafe123
+
+Trello---> (para control e interacción con el cliente)
+@valledelcafe
+correo: proyectodelcafe@gmail.com
+clave: proyectodelcafe123
+
+Correo Gmail ---> (almacenamiento en la nube)
+correo: proyectodelcafe@gmail.com
+clave: proyectodelcafe123
